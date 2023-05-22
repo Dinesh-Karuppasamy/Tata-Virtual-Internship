@@ -23,7 +23,8 @@ We would need to provide insights which they can use to create the expansion str
 
 We would need to make sure that the data we are using is of good quality and does not contain any bad data that would have an adverse impact on our analysis. Once the data is **cleaned**, the next step would be to create the visuals on **Tableau**.
 
-![image](https://user-images.githubusercontent.com/131190846/233267861-d13d0e08-e530-4b51-b644-47246042537d.png)
+![Sales analysis](https://github.com/Dinesh-Karuppasamy/Tata-Virtual-Internship/assets/131190846/3f4fc45a-e7ea-4dcd-91a3-033faa512e9e)
+
 
 **Task 4 - Communicating Insights and Analysis**
 
